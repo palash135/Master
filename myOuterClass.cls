@@ -4,6 +4,7 @@ public class myOuterClass {
          // myInnerClass code here
 		//My change 1 
 		
-		//change--
+		//change--2
+		
        }
     }
