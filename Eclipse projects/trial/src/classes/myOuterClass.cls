@@ -2,6 +2,6 @@ public class myOuterClass {
        // Additional myOuterClass code here
        class myInnerClass {
          // myInnerClass code here
-		 //Change in innner class
+		//My change 1 
        }
     }
